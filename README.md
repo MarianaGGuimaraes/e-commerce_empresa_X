@@ -1,8 +1,8 @@
 # e-COMMERCE EMPRESA x
 
-Vamos criar um e-commerce para a empresa X e bla bla bla
+Vamos criar um **e-commerce** para a *empresa X* e bla bla bla
 
-## Funcionalidade>
+## Funcionalidade:
 
 Checkout, tela de produto, catálogo, Home com banner
 
