@@ -16,3 +16,9 @@ _Melhoria 1_, __Melhoria 2__
 * CSS
 * JavaScript
 * MySQL
+
+### Funcionalidades a desenvolver:
+
+1. Área de membros
+2. integração com outros pgt
+3. Sistema de bônus primeira compra
