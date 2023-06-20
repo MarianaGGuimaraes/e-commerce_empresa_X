@@ -29,4 +29,12 @@ _Melhoria 1_, __Melhoria 2__
 
 #### Imagem Externa
 
-![Logo do PHP] (httlps://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
+![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
+
+##Links Interessantes
+
+[Google](https://www.google.com)
+
+[https://www.horadecodar.com.br](https://www.horadecodar.com.br)
+
+Contribuidor principal: https://github.com/MarianaGGuimaraes/
