@@ -41,10 +41,16 @@ Contribuidor principal: https://github.com/MarianaGGuimaraes/
 
 [![descrição](link)](novo link para linkar imagens no github)
 
-##código da função soma
+## código da função soma
 
 ``` Javascript
 function soma(a.b){
     return a+b;
 }
 ```
+## Lista de tarefas a fazer
+
+- [x] Área de membros
+- [] Integração com outros pagamentos
+- [] sistema de bôbus
+- [x] CSS do rodapé
