@@ -40,3 +40,11 @@ _Melhoria 1_, __Melhoria 2__
 Contribuidor principal: https://github.com/MarianaGGuimaraes/
 
 [![descrição](link)](novo link para linkar imagens no github)
+
+##código da função soma
+
+``` Javascript
+function soma(a.b){
+    return a+b;
+}
+```
