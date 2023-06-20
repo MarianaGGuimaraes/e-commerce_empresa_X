@@ -25,3 +25,8 @@ _Melhoria 1_, __Melhoria 2__
     3. CSS  diferente para grupos de clientes
 2. integração com outros pgt
 3. Sistema de bônus primeira compra
+
+
+#### Imagem Externa
+
+![Logo do PHP] (httlps://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
