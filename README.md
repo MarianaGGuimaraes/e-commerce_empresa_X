@@ -38,3 +38,5 @@ _Melhoria 1_, __Melhoria 2__
 [https://www.horadecodar.com.br](https://www.horadecodar.com.br)
 
 Contribuidor principal: https://github.com/MarianaGGuimaraes/
+
+[![descrição](link)](novo link para linkar imagens no github)
